@@ -381,6 +381,32 @@ body {
   /* ----------------------------------------------------------- */
 
 
+  /*When moving to mobile  */
+
+  /* When the Phone is in the size of less then 600, operate style */
+  @media (max-width: 600px) {
+
+	/* Under h2 label */
+	.section h2 {
+	  font-size: 22px;
+	}
+	
+	/* Under h3 label */
+	.about-card h3 {
+	  font-size: 18px;
+	}
+	
+	/* Texts inside P */
+	.about-card p {
+	  font-size: 16px;
+	}
+  
+	/* Font size for the sections */
+	.section p,
+	.section li {
+	  font-size: 16px;
+	}
+  }
   
   
   
