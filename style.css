@@ -385,28 +385,13 @@ body {
 
   /* When the Phone is in the size of less then 600, operate style */
   @media (max-width: 600px) {
-
-	/* Section titles */
-	.section h2 {
+	h2 {
 	  font-size: 26px;
-	}
-  
-	/* Subtitles inside cards */
-	.about-card h3 {
-	  font-size: 20px;
-	}
-  
-	/* Paragraphs inside about cards */
-	.about-card p {
-	  font-size: 17px;
-	}
-  
-	/* Regular section paragraphs and list items */
-	.section p,
-	.section li {
-	  font-size: 17px;
+	  font-weight: 600;
+	  line-height: 1.3;
 	}
   }
+  
   
   
   
