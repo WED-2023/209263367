@@ -6,7 +6,7 @@
 
 👤 **Student ID**: 209263367
 
-   **  Student name**: Asaf Zenou
+👤 **Student name**: Asaf Zenou
 
 🌐 **Live Site**: https://wed-2023.github.io/209263367/ 
 
