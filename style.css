@@ -384,13 +384,7 @@ body {
   /*When moving to mobile  */
 
   /* When the Phone is in the size of less then 600, operate style */
-  @media (max-width: 600px) {
-	h2 {
-	  font-size: 26px;
-	  font-weight: 600;
-	  line-height: 1.3;
-	}
-  }
+
   
   
   
